@@ -9,7 +9,7 @@ name: Gert-Jan Both
 author: Gert-Jan Both
 
 # Short bio or description (displayed in the header)
-description: An elegant Jekyll theme
+description: PhD candidate in model discovery 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/reverie.png
@@ -21,15 +21,15 @@ avatar: /images/reverie.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: 
+  email: gert-jan.both@cri-paris.org
   facebook:
   flickr:
-  github: 
+  github: https://github.com/GJBoth/
   instagram:
   linkedin: 
   pinterest:
   rss: 
-  twitter:
+  twitter: https://twitter.com/GJ_Both
   stackoverflow: 
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -87,7 +87,7 @@ plugins:
 include: ['_pages']
 
 paginate: 6
-paginate_path: /page:num/
+paginate_path: "/blog/page:num/"
 
 # Exclude these files from your production _site
 exclude:
